@@ -1,0 +1,12 @@
+/Users/dervisevic/code/TollFreeCalculator/TollFreeCalculator/bin/Debug/netcoreapp3.1/TollFreeCalculator.deps.json
+/Users/dervisevic/code/TollFreeCalculator/TollFreeCalculator/bin/Debug/netcoreapp3.1/TollFreeCalculator.runtimeconfig.json
+/Users/dervisevic/code/TollFreeCalculator/TollFreeCalculator/bin/Debug/netcoreapp3.1/TollFreeCalculator.runtimeconfig.dev.json
+/Users/dervisevic/code/TollFreeCalculator/TollFreeCalculator/bin/Debug/netcoreapp3.1/TollFreeCalculator.dll
+/Users/dervisevic/code/TollFreeCalculator/TollFreeCalculator/bin/Debug/netcoreapp3.1/TollFreeCalculator.pdb
+/Users/dervisevic/code/TollFreeCalculator/TollFreeCalculator/obj/Debug/netcoreapp3.1/TollFreeCalculator.csprojAssemblyReference.cache
+/Users/dervisevic/code/TollFreeCalculator/TollFreeCalculator/obj/Debug/netcoreapp3.1/TollFreeCalculator.csproj.CoreCompileInputs.cache
+/Users/dervisevic/code/TollFreeCalculator/TollFreeCalculator/obj/Debug/netcoreapp3.1/TollFreeCalculator.AssemblyInfoInputs.cache
+/Users/dervisevic/code/TollFreeCalculator/TollFreeCalculator/obj/Debug/netcoreapp3.1/TollFreeCalculator.AssemblyInfo.cs
+/Users/dervisevic/code/TollFreeCalculator/TollFreeCalculator/obj/Debug/netcoreapp3.1/TollFreeCalculator.dll
+/Users/dervisevic/code/TollFreeCalculator/TollFreeCalculator/obj/Debug/netcoreapp3.1/TollFreeCalculator.pdb
+/Users/dervisevic/code/TollFreeCalculator/TollFreeCalculator/obj/Debug/netcoreapp3.1/TollFreeCalculator.genruntimeconfig.cache
